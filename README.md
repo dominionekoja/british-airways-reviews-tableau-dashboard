@@ -4,25 +4,25 @@
 This interactive Tableau dashboard analyzes British Airways customer reviews to identify trends in customer satisfaction, service quality, and traveler experience.
 
 ##  Dashboard Preview
-
+https://github.com/dominionekoja/british-airways-reviews-tableau-dashboard/blob/main/dashboard_preview%20..png
 
 ##  Live Interactive Dashboard
 Explore the full interactive dashboard on Tableau Public:
-👉 https://public.tableau.com/views/your-dashboard-link
+https://public.tableau.com/app/profile/dominion.ekoja/viz/BritishAirwaysReviewInteractiveDashboard_17673720469630/Dashboard1?publish=yes
 
-## 📈 Key Insights
+##  Key Insights
 - Economy class passengers reported lower satisfaction compared to Business Class
 - Overall ratings declined in recent years
 - Seat comfort and food quality were the most frequent complaint drivers
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - Tableau
 - Excel / CSV (Data Cleaning)
 - GitHub
 
-## 📂 Dataset
+##  Dataset
 Customer reviews sourced from airline review data (publicly available).
 
-## 👤 Author
+##  Author
 **Dominion Ekoja**  
-Data Analyst | SQL | Tableau | Data Visualization
+Data Analyst | SQL | Tableau | Excel| Data Visualization
